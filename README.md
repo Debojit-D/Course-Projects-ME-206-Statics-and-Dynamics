@@ -146,9 +146,6 @@ This repository contains the code, documentation, and experimental reports for t
 
 ---
 
-## License
-This repository is licensed under the MIT License. See `LICENSE` for more information.
-
 ---
 
 Let me know if you need further adjustments or additional sections.
