@@ -32,6 +32,7 @@ This repository contains the code, documentation, and experimental reports for t
 ### Tags
 `#Tensegrity`, `#StaticalBalance`, `#StructuralDynamics`, `#AutodeskInventor`, `#MATLAB`
 
+
 ---
 
 ## Experiment 2: Coriolis Effect on Rotating Frame
@@ -56,6 +57,8 @@ This repository contains the code, documentation, and experimental reports for t
 
 ### Tags
 `#CoriolisEffect`, `#RotationalDynamics`, `#Arduino`, `#MATLAB`
+
+[![Experiment 2](https://img.youtube.com/vi/lvvoyN_ugX8/0.jpg)](https://youtu.be/lvvoyN_ugX8?si=ef8_cAMdtJ1jw1T8)
 
 ---
 
@@ -103,6 +106,8 @@ This repository contains the code, documentation, and experimental reports for t
 ### Tags
 `#FourBarLinkage`, `#Kinematics`, `#ADAMS`, `#Arduino`
 
+[![Experiment 4](https://img.youtube.com/vi/Q4cXk2k-fpo/0.jpg)](https://youtu.be/Q4cXk2k-fpo?si=aaM133MdyB96XTHx)
+
 ---
 
 ## Experiment 5: Center of Percussion (CoP)
@@ -125,6 +130,8 @@ This repository contains the code, documentation, and experimental reports for t
 ### Tags
 `#CenterOfPercussion`, `#Oscillations`, `#MATLAB`, `#MechanicalVibrations`
 
+[![Experiment 5](https://img.youtube.com/vi/CGrbidE2N-U/0.jpg)](https://youtu.be/CGrbidE2N-U?si=qfNO3ZPwgEGLO1SI)
+
 ---
 
 ## How to Use the Repository
@@ -145,4 +152,13 @@ This repository contains the code, documentation, and experimental reports for t
    MATLAB code is provided for analyzing the data from each experiment. Follow the instructions in each `README.md` file to set up the required environment and execute the code.
 
 ---
+
+## A Note on Plagiarism
+
+As a senior who has taken the ME 206 Statics and Dynamics course at IIT Gandhinagar, I want to remind fellow students to be mindful of the importance of academic integrity. While I’ve shared these projects and resources to help others, it's essential that you do not copy or plagiarize this work when submitting your own assignments.
+
+Please remember to adhere to the plagiarism policy of the course, and ensure that any work you submit is your own. Referencing and learning from shared resources is encouraged, but make sure to do so responsibly by citing appropriately and contributing your own original ideas. This applies not only to ME 206 but to all your courses at IITGN.
+
+Let’s all maintain the high standards of academic honesty and encourage a culture of integrity!
+
 
