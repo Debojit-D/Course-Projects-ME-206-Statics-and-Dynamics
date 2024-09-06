@@ -1,4 +1,3 @@
-Below is a comprehensive `README.md` template for the five experiments in the ME 206 Statics and Dynamics course, including detailed explanations for each experiment, the software used, and formatting with appropriate tags.
 
 ---
 
