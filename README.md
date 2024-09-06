@@ -60,7 +60,8 @@ This repository contains the code, documentation, and experimental reports for t
 
 [![Experiment 2](https://img.youtube.com/vi/lvvoyN_ugX8/0.jpg)](https://youtu.be/lvvoyN_ugX8?si=ef8_cAMdtJ1jw1T8)
 
-[![Experiment 2](https://img.youtube.com/vi/lvvoyN_ugX8/0.jpg)](https://youtube.com/shorts/XeLLp6lNIOM?si=zArRIvy1IBjOeC6p)
+[![Experiment 2](https://img.youtube.com/vi/XeLLp6lNIOM/0.jpg)](https://youtube.com/shorts/XeLLp6lNIOM?si=zArRIvy1IBjOeC6p)
+
 
 ---
 
